@@ -1,3 +1,9 @@
+# Repository of class material from Flatiron School
+
+Kept here as a backup.
+
+# Instructions for Github
+
 ![](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
 
 ### Written Instructions to Connect to This Repository:
