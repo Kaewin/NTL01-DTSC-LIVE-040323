@@ -2,3 +2,4 @@
 1phase/Lecture Videos/
 1phase/completed/.ipynb_checkpoints/
 1phase/src/__pycache__/
+*.code-workspace
